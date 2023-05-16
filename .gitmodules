@@ -1,0 +1,3 @@
+[submodule "FuzzyStringSearch"]
+	path = FuzzyStringSearch
+	url = https://github.com/squidscode/FuzzyStringSearch.git
